@@ -1,1 +1,2 @@
 # mlops-vertex
+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
